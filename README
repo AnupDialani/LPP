@@ -1,0 +1,7 @@
+
+Autor: Anup Jagdish Dialani Dialani
+Grupo: L2
+
+Practica 4:
+
+Esto es un programa que calcula y devuelve el radio de una circunferencia a partir de un perimetro dado por el usuario. En caso de introducirse un numero negativo o uno o varios caracteres no numericos, se lanzara una excepcion para indicar el error, deteniendose asi el programa.
